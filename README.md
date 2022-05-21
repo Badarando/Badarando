@@ -1,11 +1,8 @@
-<p aligh=center>
+<!-- <p aligh=center>
     <a href="#">
         <img align="center" width="800" height="100" src="badarando.gif">
     </a>
-</p>
-
-##
-
+</p> -->
 <div style="display: inline_block"><br>
   <a href="https://github.com/Badarando">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Badarando&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
