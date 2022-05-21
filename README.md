@@ -32,9 +32,11 @@
   <a href = "mailto:marcospaulobadaro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=5561982659304&text=Ol%C3%A1%2C%20Marcos!%20Vi%20seu%20perfil%20no%20github..." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
+  <p align="left"> 
 
  ## Total de visitas no meu perfil <br>
 
+ <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Badarando/count.svg" />
  </p>
 
